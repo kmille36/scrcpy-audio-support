@@ -11,3 +11,7 @@ TO-DO:
 
 - [x] Release this.
 - [ ] Make GUI.
+
+HOW-TO-USE:
+
+- Download it in realease, then run exe file to install. It will extract files in current directory and create desktop shortcut. You need to follow these intructions in first time setup, after done you can simply connect directly your phone over wifi without any confirmation. 
