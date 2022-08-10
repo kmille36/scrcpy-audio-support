@@ -6,3 +6,8 @@ Connect on localhost (wifi).
 
 Connect over internet using ngrok.com
 ![image](https://user-images.githubusercontent.com/58414694/183928638-e43d3628-87a8-4596-85ba-a91dbb234d87.png)
+
+TO-DO:
+
+- [ ] Release this.
+- [ ] Make GUI.
