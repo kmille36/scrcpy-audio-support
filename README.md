@@ -10,6 +10,7 @@ Connect over internet using ngrok.com
 TO-DO:
 
 - [x] Release this.
+- [ ] Make video.
 - [ ] Make GUI.
 
 HOW-TO-USE:
