@@ -9,5 +9,5 @@ Connect over internet using ngrok.com
 
 TO-DO:
 
-- [ ] Release this.
+- [x] Release this.
 - [ ] Make GUI.
