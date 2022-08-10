@@ -14,4 +14,4 @@ TO-DO:
 
 HOW-TO-USE:
 
-- Download it in releases, then run exe file to install. It will extract all files in current directory and create desktop shortcut. You need to follow these instructions showing on terminal in first time setup, after done you can simply directly connect to your phone over wifi without any confirmation. 
+- Download it in releases, then run exe file to install. It will extract all files in current directory and create desktop shortcut. You need to follow these instructions showing on terminal in first time setup, after done you can simply directly connect to your phone over wifi without any confirmation (must the same wifi network, if you want remote over internet, forward port on your router or using ngrok.com run on termux in android).  
