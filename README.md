@@ -14,4 +14,4 @@ TO-DO:
 
 HOW-TO-USE:
 
-- Download it in realeases, then run exe file to install. It will extract files in current directory and create desktop shortcut. You need to follow these intructions in first time setup, after done you can simply connect directly your phone over wifi without any confirmation. 
+- Download it in realeases, then run exe file to install. It will extract files in current directory and create desktop shortcut. You need to follow these instructions in first time setup, after done you can simply connect directly your phone over wifi without any confirmation. 
