@@ -3,7 +3,7 @@ Simple remote your Android device with scrcpy + audio support over vlc (60fps).
 
 * REQUIREMENT: Android 10 or higher (for audio support). 
 
-Video tutorial (Click in image to open):
+Video tutorial (Click in image to open Youtube video):
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/aZ1Ggl6fmFE/0.jpg)](http://www.youtube.com/watch?v=aZ1Ggl6fmFE "Demonstration: Scrcpy Audio Support | Easy Remote Your Android Phone Over Wifi |")
 
