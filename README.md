@@ -3,7 +3,7 @@ Simple remote your Android device with scrcpy + audio support over vlc (60fps).
 
 * REQUIREMENT: Android 10 or higher (for audio support). 
 
-Video tutorial (Click in image to open Youtube video):
+Video tutorial (Click on image to open Youtube video):
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/aZ1Ggl6fmFE/0.jpg)](http://www.youtube.com/watch?v=aZ1Ggl6fmFE "Demonstration: Scrcpy Audio Support | Easy Remote Your Android Phone Over Wifi |")
 
@@ -21,5 +21,5 @@ TO-DO:
 
 HOW-TO-USE:
 
-- Download it in releases, then run exe file to install. It will extract all files in current directory and create desktop shortcut. You need to follow these instructions showing on terminal in first time setup, after done you can simply directly connect to your phone over wifi without any confirmation (must the same wifi network, if you want remote over internet, forward port on your router or using ngrok.com run in termux on android).  
+- Download it in releases, then run exe file to install. It will extract all files in current directory and create desktop shortcut. You need to follow these instructions showing on terminal in first time setup, after done you can simple directly connect to your phone over wifi without any confirmation (must the same wifi network, if you want remote over internet, forward port on your router or using ngrok.com run in termux on android).  
 - After connected, your phone will mute audio and turn off screen, audio and video only playing from computer. If you disconnect, your device will lock screen and unmute sound.
